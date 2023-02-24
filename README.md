@@ -1,2 +1,2 @@
-# Neural-Networks
-Showcasing some Neural Network Techniques to solve data science problems
+# Data Science
+Some random data science and ml projects. 
